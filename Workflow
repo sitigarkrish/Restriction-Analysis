@@ -1,0 +1,22 @@
+FASTA File
+    │
+    ▼
+Read Sequence
+    │
+    ▼
+Select Restriction Enzyme(s)
+    │
+    ▼
+RestrictionBatch
+    │
+    ▼
+Analysis
+    │
+    ▼
+Recognition Site Detection
+    │
+    ▼
+Cut Position Identification
+    │
+    ▼
+Results
