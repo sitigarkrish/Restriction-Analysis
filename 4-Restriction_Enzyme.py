@@ -1,4 +1,4 @@
-# Restriction Site Analysis of a DNA Sequence Using Biopython (Single Enzymes)
+# Restriction Site Analysis of a DNA Sequence Using Biopython (Single Enzyme)
 
 from Bio import SeqIO
 from Bio.Restriction import EcoRI,RestrictionBatch,Analysis
