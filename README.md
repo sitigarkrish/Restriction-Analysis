@@ -1,4 +1,4 @@
-#🧬 Restriction Site Analysis Using Python & BiPpython
+# Restriction Site Analysis Using Python & BiPpython
 
 ## Overview
 
